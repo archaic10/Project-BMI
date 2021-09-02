@@ -1,3 +1,3 @@
 # Project-BMI
 
-Passei por aqui.
+> This is a simple project, to calculate BMI, using Javaee
